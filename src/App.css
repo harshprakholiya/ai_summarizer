@@ -35,6 +35,7 @@
 }
 
 .gradient {
+  border: 3px solid red;
   height: fit-content;
   z-index: 3;
   width: 100%;
